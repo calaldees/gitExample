@@ -4,7 +4,7 @@ for attempt_number in range(3):
     if username = 'Dr Evil':
         print('You are on perma-ban, please leave the internet.')
         break
-    if username in ('bob', 'jane', 'sally', 'allan','arnold', 'jim', 'shasha'):
+    if username in ('bob', 'jane', 'sally', 'allan','arnold', 'jim', 'shasha', 'leo'):
         print(f'Welcome {username}')
         break
     print('Invalid login: go away!')
